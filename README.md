@@ -1,6 +1,7 @@
 <!-- @format -->
 
 Project Name: Puzzle solver
+
 Overview
 Puzzle Solver is a Python-based project that solves two classic puzzles:
 
